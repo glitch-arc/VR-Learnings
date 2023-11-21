@@ -1,0 +1,4 @@
+#Mon Feb 20 14:39:27 EST 2023
+base.0=D\:\\VR Development\\VR Room\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
